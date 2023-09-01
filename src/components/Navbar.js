@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 export default function Navbar() {
     return (
         <header className="bg-gray-800 md:sticky top-0 z-10">
